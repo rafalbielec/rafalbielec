@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rafał (Raf) Bielec 👋</h1>
+<h1 align="center">Hi, I'm Rafał (Raf) Bielec</h1>
 
 <section align="center">
  <a href="https://x.com/rafalbielec" alt="raf's account on X">
@@ -15,12 +15,13 @@
  </a>
  </section>
 
-I’m a senior software engineer specializing mostly in .NET and Web technologies, but I've also coded some desktop stuff in WPF and Windows.Forms back in the day. I love to use Neovim and I've started learning Lua to code my own plugins in the future.
+I’m a senior software engineer specialising mostly in .NET and web technologies, but I've also coded some desktop stuff in WPF and Windows.Forms back in the day. I even coded a customer portal in Ruby and Sinatra many years ago. I love to use Neovim and I've started learning Lua to code my own plugins in the future.
 
 #### Social media
 - Follow me on X [@rafalbielec](https://x.com/rafalbielec)
 - I blog at [https://rafalbielec.com/blog](https://rafalbielec.com/blog)
-- Let's connect. My LinkedIn handle is [/in/rafalbielec](https://www.linkedin.com/in/rafalbielec)
+- My LinkedIn handle is [/in/rafalbielec](https://www.linkedin.com/in/rafalbielec)
+
 ---
 
 <section align="center">
