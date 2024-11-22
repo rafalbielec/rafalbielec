@@ -7,10 +7,10 @@
  <a href="https://github.com/rafalbielec" alt="raf's github">
    <img src="https://img.shields.io/badge/-@rafalbielec-%23181717?style=flat-square&logo=github" />
  </a>
- <a href="https://www.linkedin.com/in/iammukeshm" alt="raf's linkedin">
+ <a href="https://www.linkedin.com/in/rafalbielec" alt="raf's linkedin">
    <img src="https://img.shields.io/badge/-rafalbielec-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafalbielec" />
  </a>
- <a href="https://codewithmukesh.com" alt="raf's blog">
+ <a href="https://rafalbielec.com" alt="raf's blog">
    <img src="https://img.shields.io/badge/rafalbielec.com/blog-purple?style=flat-square" />
  </a>
  </p>
@@ -18,9 +18,9 @@
 I’m a senior software engineer specializing mostly in .NET and Web technologies, but I've also coded some desktop stuff in WPF and Windows.Forms back in the day. I love to use Neovim and I've started learning Lua to code my own plugins in the future.
 
 #### Social media
-- 📝 I blog here: [https://rafalbielec.com/blog](https://rafalbielec.com/blog)
-- 📫 Follow me on Twitter [@rafalbielec](https://twitter.com/rafalbielec)
-- 🦸 Endorse me / Leave a Recommendation on Linkedin [/in/rafalbielec](https://www.linkedin.com/in/rafalbielec)
+- 📝 I blog at [https://rafalbielec.com/blog](https://rafalbielec.com/blog)
+- 📫 Follow me on X [@rafalbielec](https://x.com/rafalbielec)
+- 🦸 Let's connect. My LinkedIn handle is [/in/rafalbielec](https://www.linkedin.com/in/rafalbielec)
 ---
 
 <p align="center">
