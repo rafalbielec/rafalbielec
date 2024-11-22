@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="https://twitter.com/rafalbielec" alt="raf's twitter">
-   <img src="https://img.shields.io/badge/-@rafalbielec-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
+   <img src="https://img.shields.io/badge/-@rafalbielec-%231DA1F2?style=flat-square&logo=x&logoColor=ffffff" />
  </a>
  <a href="https://github.com/rafalbielec" alt="raf's github">
    <img src="https://img.shields.io/badge/-@rafalbielec-%23181717?style=flat-square&logo=github" />
@@ -11,7 +11,7 @@
    <img src="https://img.shields.io/badge/-rafalbielec-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafalbielec" />
  </a>
  <a href="https://rafalbielec.com" alt="raf's blog">
-   <img src="https://img.shields.io/badge/rafalbielec.com/blog-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/rafalbielec.com/blog-purple?style=flat-square&logo=www&logoColor=ffffff" />
  </a>
  </p>
 
