@@ -18,7 +18,7 @@
 I’m a senior software engineer specializing mostly in .NET and Web technologies, but I've also coded some desktop stuff in WPF and Windows.Forms back in the day. I love to use Neovim and I've started learning Lua to code my own plugins in the future.
 
 #### Social media
-- 📝 I blog here: [http://rafalbielec.com/blog](http://rafalbielec.com/blog)
+- 📝 I blog here: [https://rafalbielec.com/blog](https://rafalbielec.com/blog)
 - 📫 Follow me on Twitter [@rafalbielec](https://twitter.com/rafalbielec)
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [/in/rafalbielec](https://www.linkedin.com/in/rafalbielec)
 ---
