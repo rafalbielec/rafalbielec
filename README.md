@@ -4,7 +4,7 @@
 <a href="https://x.com/rafalbielec" alt="raf's account on X"><img src="https://img.shields.io/badge/-@rafalbielec-%231DA1F2?style=flat-square&logo=x&logoColor=ffffff" /></a>
 <a href="https://github.com/rafalbielec" alt="raf's github"><img src="https://img.shields.io/badge/-@rafalbielec-%23181717?style=flat-square&logo=github" /></a>
 <a href="https://www.linkedin.com/in/rafalbielec" alt="raf's linkedin"><img src="https://img.shields.io/badge/-rafalbielec-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafalbielec" /></a>
-<a href="https://rafalbielec.com" alt="raf's blog"><img src="https://img.shields.io/badge/rafalbielec.com/blog-purple?style=flat-square&logo=www&logoColor=ffffff" /></a>
+<a href="https://rafalbielec.com/blog" alt="raf's blog"><img src="https://img.shields.io/badge/rafalbielec.com/blog-purple?style=flat-square&logo=www&logoColor=ffffff" /></a>
 </section>
 
 ## About me
