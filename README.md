@@ -8,7 +8,7 @@
 </section>
 
 ## About me
-I’m a senior software engineer specialising mostly in .NET and web technologies, but I've also coded some desktop stuff in WPF and Windows.Forms back in the day. I even coded a customer portal in Ruby and Sinatra once. I prefer PostgreSQL over SQL Server but both will do. I love to use Neovim and I've started learning Lua to code my own plugins in the future.
+I'm a senior software engineer specialising mostly in .NET and web technologies, but I've also coded some desktop stuff in WPF and Windows.Forms back in the day. I even coded a customer portal in Ruby and Sinatra once. I prefer PostgreSQL over SQL Server but both will do. I love to use Neovim and I've been coding C# with Neovim and it does seem to work.
 </section>
 
 #### Social media
