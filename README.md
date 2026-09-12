@@ -8,7 +8,7 @@
 </section>
 
 ## About me
-I'm a senior software engineer specialising mostly in .NET and web technologies, but I've also coded some desktop stuff in WPF and Windows.Forms back in the day. I even coded a customer portal in Ruby and Sinatra once. I prefer PostgreSQL over SQL Server but both will do. I love to use Neovim and I've been coding C# with Neovim and it does seem to work.
+Hands-on Senior .NET Developer with experience building backend systems, APIs, and integrations for finance, government, and international business. Deep expertise in C#/.NET, ASP.NET Core, and Azure, with a track record of owning delivery end-to-end and experience leading engineering teams when needed. Recent experience with AI-assisted development workflows. Available for remote opportunities across Europe.
 </section>
 
 #### Social media
