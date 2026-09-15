@@ -8,7 +8,7 @@
 </section>
 
 ## About me
-Hands-on Senior .NET Developer with experience building backend systems, APIs, and integrations for finance, government, and international business. Deep expertise in C#/.NET, ASP.NET Core, and Azure, with a track record of owning delivery end-to-end and experience leading engineering teams when needed. Recent experience with AI-assisted development workflows. Available for remote opportunities across Europe.
+Hands-on Senior .NET Developer with experience building backend systems, APIs, and integrations for finance, government, and international business. Deep expertise in C#/.NET, ASP.NET Core, Azure, and front-end technologies. Experience in management. Recent experience with AI-assisted development workflows. Available for remote opportunities in any time zone.
 </section>
 
 #### Social media
